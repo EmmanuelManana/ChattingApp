@@ -1,0 +1,19 @@
+.login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login__container{
+    flex-direction: column;
+    width: 100px; 
+}
+
+.login__nameInput{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.login__roomInput{
+    margin-bottom: 10px;
+}
